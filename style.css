@@ -1,0 +1,29 @@
+/**
+ * Plugin Name: Simple Web Banners
+ * Plugin URI: https://sommertechs.com
+ * Description: A simple plugin for making website banners.
+ * Version: 1.0
+ * Author: Sommer Technologies
+ * Author URI: https://sommertechs.com
+ * License: GPL3
+ */
+
+/*
+* CSS Rules
+*/
+	.stwd_wb_alert {
+		width: 100%;
+		padding: 15px;
+		text-align: center;
+	}
+
+	.stwd_wb_alerts_wrapper marquee {
+		height: 50px;
+		text-align: center;
+	}
+
+	.stwd_wb_alert p {
+		padding: 0px;
+		margin: 0px;
+		border: 0px;
+	}
