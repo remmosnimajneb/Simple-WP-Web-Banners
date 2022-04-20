@@ -9,6 +9,11 @@ Banners can be setup to stack on top of each other or scroll using a marquee.
 
 ## Screenshots
 
+Sample Banner
 ![Sample Banner](demo/demo1.png)
+
+Options for Banners
 ![Options for Banners](demo/demo2.png)
+
+Global Options
 ![Global Options](demo/demo3.png)
