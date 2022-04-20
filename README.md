@@ -18,7 +18,7 @@ Options for Banners
 Global Options
 ![Global Options](demo/demo3.png)
 
-##Install
+## Install
 - 1. Download the Github to a ZIP File or download from the releases.
 - 2. Extract ZIP and upload to /wp-content/plugins folder or upload via the WP Admin
 - 3. Activate plugin
