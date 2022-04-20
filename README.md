@@ -17,3 +17,9 @@ Options for Banners
 
 Global Options
 ![Global Options](demo/demo3.png)
+
+##Install
+- 1. Download the Github to a ZIP File or download from the releases.
+- 2. Extract ZIP and upload to /wp-content/plugins folder or upload via the WP Admin
+- 3. Activate plugin
+- 4. Global Options can be found in Settings -> Web Banners Options new Banners can be created with the Web Banners menu item.
